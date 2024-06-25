@@ -1,16 +1,27 @@
-# app
+# CALCULATOR APP
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+Auth App is a mobile application developed using Flutter, providing essential authentication features and utility tools, did as an assignement in
+mobile programming class
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- *Sign In:* Secure authentication with email and password.
+- *Sign Up:* Registration for new users.
+- *Calculator:* Fully functional for basic arithmetic operations.
+- *Dark Mode:* Enhances usability in low-light environments.
+- *Drawer Navigation:* Convenient access to different app sections.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Ensure Flutter is installed.
+
+![image](https://github.com/kevine250/assignment-2/assets/110406857/6ba6d9cf-ab77-4433-85d1-2a0bf9953fb5)
+![image](https://github.com/kevine250/assignment-2/assets/110406857/0d6deb35-dc6f-4947-b5ef-05d78ea9deb2)
+![image](https://github.com/kevine250/assignment-2/assets/110406857/14b6576c-2bcf-4069-b688-5c2e3240041b)
+![image](https://github.com/kevine250/assignment-2/assets/110406857/c6c3928a-00da-4432-adb3-5a755d6a1371)
+
+
+
+
